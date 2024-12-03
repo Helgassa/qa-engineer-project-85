@@ -1,1 +1,123 @@
+---
+- summary: |
+    Успешная регистрация нового пользователя с использованием email.
+  status: pass
+
+- summary: |
+    Проверка успешной авторизации через github
+  status: pass
+  
+- summary: |
+    Успешная авторизация через email
+  status: pass
+
+- summary: |
+    Авторизация через email
+  status: pass
+    
+- summary: |
+    Кнопки турнирной таблицы
+  status: pass
+
+- summary: |
+    Создание игры с ботом
+  status: pass
+    
+- summary: |
+    Создание игры с другом
+  status: pass
+
+- summary: |
+    Cоздание игры с другим пользователем 1
+ status: pass
+
+- summary: |
+    Cозданиt игры с другим пользователем 2
+  status: pass
+
+- summary: |
+    Панель кнопок в task игры
+  status: pass
+  
+- summary: |
+    Кнопка run (запуск кода)
+  status: pass
+
+- summary: |
+    Панель output (вывод кода)
+  status: pass
+ 
+- summary: |
+    Кнопка give up
+  status: pass
+
+- summary: |
+    Выпадающее меню смены языка программирования 
+  status: pass
+
+- summary: |
+    Использование чата в правой панели
+    status: pass
+
+- summary: |
+    Кнопки в правой верхней панели игры 
+  status: pass
+
+- summary: |
+    Вкладка Tasks в правом верхнем углу
+  status: fail
+
+- summary: |
+    Просмотр task другого пользователя
+  status: fail
+  
+- summary: |
+    Cмена настроек личного кабинета
+  status: pass
+
+- summary: |
+    Просмотр моего профиля и информации в нем
+  status: pass
+  
+- summary: |
+    Просмотр user`s rating 
+  status: pass  
+
+- summary: |
+    Просмотр кода веб ресура на github
+  status: pass
+
+- summary: |
+    Переход на сайт Hexlet
+  status: pass
+  
+- summary: |
+    Переход на Дискорд 
+  status: pass
+  
+- summary: |
+    Переход в телеграм 
+  status: pass
+
+- summary: |
+    Кнопка fight на главной странице сайта
+  status: pass
+
+- summary: |
+    Кнопка sign out (выход)
+  status: pass
+    
+
+    
+
+
+
+
+
+
+
+    
+
+ 
+
 
