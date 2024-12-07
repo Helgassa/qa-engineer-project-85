@@ -35,8 +35,7 @@
   requirement: |
     no data
   prerequisites:
-    Пользователь зарегестрирован
-    Форма пуста
+    no data
   test-data: |
     email helgamartin41@gmail.com
     пароль Gorilla1111
@@ -52,8 +51,7 @@
   requirement: |
     Вход не осуществлен
   prerequisites:
-    Пользователь зарегестрирован
-    Форма пуста
+    no data
   test-data: |
     email helgamartin41gmail.com
     пароль Gorilla1111235656
